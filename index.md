@@ -5,3 +5,6 @@
 This is normal text
 ##### This is a h5 Header
 ###### This is a h6 header
+
+# Add an Image
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)

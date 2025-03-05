@@ -19,3 +19,16 @@ This is a code block it is made my adding this character ` three times above and
 var myVar = "Hello, world!";
 ```
 For this one, it's javascript. this is done by writing the language next to the opening ``` characters.
+
+# Task list
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+If you press Enter at the and of a line formatted as a task, it will automatically add in the formatting for a new task, like bulletpoints in a word processor.
+
+```
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+```
